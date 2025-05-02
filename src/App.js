@@ -98,11 +98,11 @@ function App() {
 
 export default App;
 
-const SAMPLE = [
-  {
-    id: 1,
-    question: "what?",
-    answer: "2",
-    options: ["2", "3", "4", "5"],
-  },
-];
+// const SAMPLE = [
+//   {
+//     id: 1,
+//     question: "what?",
+//     answer: "2",
+//     options: ["2", "3", "4", "5"],
+//   },
+// ];
